@@ -33,9 +33,9 @@ Advanced Analytica’s legal basis for such webscraping activity are the followi
 
 Advanced Analytica will adopt the following principles to guide our web scraping activities:
 
-Seek to minimise the burden on scraped sites
-	- Abide by all applicable legislation and monitor the evolving legal and ethical situation
-	- Protect all personal data
+- Seek to minimise the burden on scraped sites
+- Abide by all applicable legislation and monitor the evolving legal and ethical situation
+- Protect all personal data
 
 
 ## Policy Details
