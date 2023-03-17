@@ -20,16 +20,7 @@ We aim to keep all guidance up to date and undertake regular reviews to ensure t
 All Advanced Analytica staff must comply with this policy in any project involving scraping data from the web. Failure to comply may result in disciplinary action in line with Advanced Analytica’s discipline policy.
 
 ## Policy Statement
-Advanced Analytica is carrying out web-scraping activity for the purposes of its business objectives functions set out in the Data Strategy.
-
-Advanced Analytica’s legal basis for such webscraping activity are the following:
-
-1. Consent
-2. Contract with the data subject
-3. Compliance with a legal obligation
-4. Vital interest
-5. Public interest
-6. Legitimate interest
+Advanced Analytica is carrying out web-scraping activity for the purposes of its business objectives functions in particular for selling insights derived from the analysis of non-personal data collected from alternative data sources.
 
 Advanced Analytica will adopt the following principles to guide our web scraping activities:
 
