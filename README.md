@@ -41,7 +41,7 @@ Advanced Analytica will adopt the following principles to guide our web scraping
 ## Policy Details
 
 ### Seek to minimise the burden on scraped sites
-Excessive use of web scraping can be burdensome, and overuse on a single webpage may have a detrimental impact to the operation of the website. To avoid such scenarios, we will follow these practices, where applicable, and always act within the limits of our statutory functions:
+Excessive use of web scraping can be burdensome, and overuse on a single webpage may have a detrimental impact to the operation of the website. To avoid such scenarios, we will follow these practices, maintain a register of web scraping activity, where applicable, and always act within the limits of our statutory functions:
 
 - Assess other data collection methods, such as RSS/Atom feeds or API’s, before considering the use of web scraping
 - Respect scraping limitations enforced via documents like the Robots Exclusion Protocol (Robots.txt) and Site Terms and Conditions
