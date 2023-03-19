@@ -4,7 +4,7 @@ Advanced Analytica's policy for web scraping
 ## Background
 Use of alternative data sources is vital for Advanced Analytica to achieve its objective of monitoring regulations (including risks caused by the way in which clients interest in relation to regulations. Web Scraping is one of these alternative data sources often used to supplement existing data sources. Therefore, the purpose of this policy is to ensure Web Scraping activities are conducted transparently, ethically and with respect to all relevant legislation.
 
-This policy sets out the practices and procedures that Advanced Analytica will follow when carrying out web scraping. Web scraping is defined as the automatic collection of data retrieved from the internet, typically from HTML, using a piece of software or program.
+This policy sets out the practices and procedures that Advanced Analytica will follow when carrying out web scraping. Web scraping is defined as the automatic collection of data retrieved from the internet, typically from HTML or PDF, using a piece of software or program.
 
 ## Scope
 This policy sets out the practices and procedures that Advanced Analytica employees, temporary and casual staff, and any contractor, researcher or academic partner carrying out work for the agency or acting on our behalf must follow when carrying out web scraping.
