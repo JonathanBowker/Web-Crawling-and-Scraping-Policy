@@ -1,5 +1,5 @@
-# Web Scraping Policy
-## Advanced Analytica's policy for web crawling
+# Web Crawling and Scraping Policy
+## Advanced Analytica's policy for web crawling and web scraping with Securicrawl®
 
 ## Background
 "Crawler" (sometimes also called a "robot" or "spider") is a generic term for any program that is used to automatically discover and scan websites by following links from one web page to another. Advanced Analytica's crawler is called - Securicrawl®. 
