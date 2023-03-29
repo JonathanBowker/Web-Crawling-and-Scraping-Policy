@@ -32,7 +32,7 @@ Advanced Analytica will adopt the following principles to guide DiffWatch® acti
 ### Seek to minimise the burden on scraped sites
 Excessive use of Web Scraping can be burdensome, and overuse on a single webpage may have a detrimental impact to the operation of the website. To avoid such scenarios, we will maintain a register of DiffWatch® activity and follow these practices, where applicable, and always act within the law:
 
-- Assess other data collection methods, such API’s or Webservices, before considering the use of DiffWatch®
+- Assess other possible data collection methods, such API’s or Webservices, before considering the use of Web Crawling
 - Respect scraping limitations enforced via documents like the Robots Exclusion Protocol (Robots.txt) and Site Terms and Conditions
 - Delay accessing pages on the same domain
 - Adding idle time between requests
