@@ -1,5 +1,5 @@
 # Web Crawling and Scraping Policy
-## Advanced Analytica's policy for web crawling and web scraping
+### Advanced Analytica's policy for Web Crawling and Scraping.
 
 ## Background
 Use of alternative data sources is vital for Advanced Analytica to achieve its business objective of monitoring UK legislation and regulations to identify risks in relation to changing regulations. Web Scraping is one of these alternative data sources often used to supplement existing data sources. Therefore, the purpose of this policy is to ensure Web Scraping activities are conducted transparently, ethically and responsibly with respect to all relevant legislation.
@@ -65,10 +65,10 @@ Advanced Analytica is fully commited to compliance with the [Data Protection Act
  - A SecuriCrawl® request document [LINK] must be completed and attached to the correspondence for review
  - Please note that the Advanced Analytica may conduct a feasibility crawl on an authorised target website. During this crawl no data will be stored by Advanced Analytica. Advanced Analytica will ensure that this process remains in line with policy.
 
-### SecuriCrawl® Evaluation
+### Lawyer-in-the-loop® Evaluation
  - Clients will provide Advanced Analytica with a new request and completed request document
  - Advanced Analytica will evaluate the request document and verify whether SecuriCrawl® can be lawfully engaged 
- - Advanced Analytica will perform relevant AI risk assessments in line with the [ICO Guidance on AI and data protection](https://ico.org.uk/for-organisations/guide-to-data-protection/key-dp-themes/guidance-on-artificial-intelligence-and-data-protection/)
+ - Advanced Analytica will perform relevant AI risk assessments with a lawyer-in-the-loop® to ensure compliance with [ICO Guidance on AI and data protection](https://ico.org.uk/for-organisations/guide-to-data-protection/key-dp-themes/guidance-on-artificial-intelligence-and-data-protection/)
 
 ### Web Crawling Log
 Advanced Analytica will update the central crawling log with the approved activities and inform the business unit they can begin scraping. This is to ensure that the correct level of due dilligence is assigned to each project and that all activities are recorded for auditability and accountability purposes in the Web Crawling Log.
@@ -90,7 +90,7 @@ The standard markup language for defining the structure of web pages. HTML eleme
 Idle time, or sleep time, is the pause between each request made to a website by the scraper.
 
 ### Lawyer-in-the-loop®
-A combined Web Crawling and Web scraping system that automate collection of data from the internet typically from HTML or PDF or CSV files, using proprietary software and methodologies developed by Advanced Analytica. SecuriCrawl® is the only web data collection service that builds lawyer-in-the-loop® processing pipelines with data protection by design and by default. 
+A combined Web Crawling, Scraping and Analytics system that automates collection and analsyis of data from the internet typically from HTML or PDF or CSV files, using proprietary software and methodologies developed by Advanced Analytica. SecuriCrawl® is the only web data collection service that builds lawyer-in-the-loop® processing pipelines with data protection by design and by default. 
 
 ### Parallelising the Crawling
 A parallel crawler is a crawler that runs multiple processes in parallel with the goal to maximise download rates and minimise scraping overheads. For example, if website A and B contain multiple webages, then a parallelised crawl might capture a page from website A, followed by a page from website B and so on. If crawls are not parallelised, then the overhead on a single website is likely to be vastly increased.
@@ -99,7 +99,7 @@ A parallel crawler is a crawler that runs multiple processes in parallel with th
 Also known as the Robots.txt file. This is a standard used by websites to communicate with web crawlers and other web robots. Essentially it provides website owners a method to restrict part of their websites from scraping or limit scraping entirely to just certified scrapers such as search engines. More information on this subject can be found on the robots.txt website (Opens in a new window).
 
 ### SecuriCrawl®
-A combined Web Crawling and Web scraping system that automate collection of data from the internet typically from HTML or PDF or CSV files, using proprietary software and methodologies developed by Advanced Analytica. The SecuriCrawl® system has been developed with data protection by design and by default with a lawyer-in-the-loop®.
+A combined Web Crawling, Scraping and analytics system that automates collection and analsyis of data from the internet typically from HTML or PDF or CSV files, using proprietary software and methodologies developed by Advanced Analytica. SecuriCrawl® is the only web data collection and analsyis service providing automated decision making  lawyer-in-the-loop® processing pipelines with data protection by design and by default. 
 
 ### User Agent String
 A User Agent String is a custom piece of text that can be added to a a crawler or scraper allowing the website owner to identify the operator and/or the purpose of the web crwling or scraping activity being undertaken. With SecuriCrawl® progarmmes this can be modified for transparency.
