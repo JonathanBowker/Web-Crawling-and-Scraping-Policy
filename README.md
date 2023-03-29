@@ -95,8 +95,11 @@ A parallel crawler is a crawler that runs multiple processes in parallel with th
 ### Robots Exclusion Protocol
 Also known as the Robots.txt file. This is a standard used by websites to communicate with web crawlers and other web robots. Essentially it provides website owners a method to restrict part of their websites from scraping or limit scraping entirely to just certified scrapers such as search engines. More information on this subject can be found on the robots.txt website (Opens in a new window).
 
+### SecuriCrawl®
+A combined Web Crawling and Web scraping system that automate collection of data from the internet typically from HTML or PDF or CSV files, using proprietary software and methodologies developed by Advanced Analytica. SecuriCrawl® has been developed with data protection by design and by default with a lawyer-in-the-loop®.
+
 ### User Agent String
-A User Agent String is a custom piece of text that can be added to a scraper allowing the website owner to identify the operator and/or the purpose of the web scraping activity being undertaken. This can be modified when creating the web scraper and is often used for transparencies sake.
+A User Agent String is a custom piece of text that can be added to a a crawler or scraper allowing the website owner to identify the operator and/or the purpose of the web crwling or scraping activity being undertaken. With SecuriCrawl® progarmmes this can be modified for transparency.
 
 ### Web Crawler
 A web crawler, sometimes referred to as a spider, is an internet bot that systematically browses the World Wide Web for the purposes of information gathering. The most common example of this is search engines like Google who use web crawlers to keep their search results up-to-date.
