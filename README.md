@@ -18,7 +18,7 @@ We aim to keep all guidance up to date and undertake regular reviews to ensure t
 Advanced Analytica will comply with this policy in any project involving data collection from the web in relation to DiffWatch®. 
 
 ## Policy Statement
-Advanced Analytica is carrying out Web Scraping activity for the purposes of its business objectives in particular for the detection in changes to legislation and regulations and selling insights derived from the analysis of data collected from alternative data sources.
+Advanced Analytica is carrying out Web Scraping activity for the purposes of its business objectives in particular for the detection in changes to legislation and regulations and data collected from alternative data sources.
 
 Advanced Analytica will adopt the following principles to guide DiffWatch® activities:
 
