@@ -32,7 +32,7 @@ Advanced Analytica will adopt the following principles to guide DiffWatch® acti
 ### Seek to minimise the burden on scraped sites
 Excessive use of Web Scraping can be burdensome, and overuse on a single webpage may have a detrimental impact to the operation of the website. To avoid such scenarios, we will maintain a register of DiffWatch® activity and follow these practices, where applicable, and always act within the law:
 
-- Assess other possible data collection methods, such API’s or Webservices, before considering the use of Web Crawling
+- Assess other possible data collection methods, such API’s or Webservices, before considering the use of Web Crawling and Web Scraping
 - Respect scraping limitations enforced via documents like the Robots Exclusion Protocol (Robots.txt) and Site Terms and Conditions
 - Delay accessing pages on the same domain
 - Adding idle time between requests
@@ -46,7 +46,6 @@ Excessive use of Web Scraping can be burdensome, and overuse on a single webpage
 Please note that this list of best practices is non-exhaustive and Advanced Analytica will strive to maintain a high-standard for DiffWatch® operations by monitoring and implementing best practices for AI data protection guidelines.
 
 ## Abide by applicable legislation and monitor the evolving legal and ethical situation
-
 
 Advanced Analytica understands that the legal situation surrounding Web Crawling and Web Scraping is complex and ever evolving; and there are relatively few relevant legal precedents for conducting such activities. Advanced Analytica will continue to monitor the legal situation as it evolves and amend our approach accordingly. Likewise, Advanced Analytica recognises the use of DiffWatch® and the processing of data collected in this manner may give rise to a variety of ethical issues and challenges. To address these issues Advanced Analytica has implemented the [Guidance on AI and Data Protectionin](https://ico.org.uk/for-organisations/guide-to-data-protection/key-dp-themes/guidance-on-artificial-intelligence-and-data-protection/) and the [AI and Data Protection Risk Toolkit](https://ico.org.uk/for-organisations/guide-to-data-protection/key-dp-themes/guidance-on-ai-and-data-protection/ai-and-data-protection-risk-toolkit/) to mitigate potential ethical risks both directly and indirectly attributed to DiffWatch® operations.
 
