@@ -106,3 +106,21 @@ A web crawler, sometimes referred to as a spider, is an internet bot that system
 
 ### Web Scraping
 Web scraping is defined as the automatic collection of data retrieved from the internet using a piece of software or program.
+
+# Annex 1. Guidance for website owners
+
+## What options do website owners have when they receive an initial request letter from Advanced Analytica?
+
+Advanced Analytica's Data Operations team will contact all website owners by email at least 3 weeks before web scraping commences, outlining the purpose and details of web scraping. Website owners would also be given an option of sharing required data directly with Advanced Analytica by having a data sharing agreement. 
+
+Upon receipt of such email, website owners can request further information by writing back to the sender email address (Data.Ops@advancedanalytica.co.uk) and/or express your preference. 
+
+Website owners have 2 weeks to refuse the request and if they wish to do so, website owners should reply to the sender email address by listing the reasons of why they refuse. If no reply is received 2 weeks after the email is sent, it would be taken as an approval and web scraping will start on the commencement date stated in the original email.
+
+## Would website owners be informed about the progress?
+If web scraping lasts longer than 3 months, and Advanced Analytica's Data Operations team will conduct a periodic review of the activity and this review can be shared with website owners if requested. If website owners would like to receive a regular update on the progress and/or have any request, please write to Data.Ops@advancedanalytica.co.uk.
+
+## What happens if a website owner wishes to opt out?
+If website owners wish to opt out, they can do so by replying to the initial request email sent by Data.Ops@advancedanalytica.co.uk within 2 weeks of receiving the initial request. In writing, they should state why they wish to opt out and Advanced Analytica's Data Operations team will engage with them promptly to address any concerns and to negotiate the next step, including other means of sharing the data. 
+
+If website owners wish to opt out once web scraping commences, they can do so by writing to Data.Ops@advancedanalytica.co.uk and the Advanced Analytica's Data Operations team will engage with them promptly to solve any issues and/or to organise termination of the web scraping activities.
