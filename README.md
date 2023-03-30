@@ -65,7 +65,7 @@ The DAO team must advise Advanced Analytica staff on any alternative and/or exis
 Advanced Analytica legal services provide advice and guidance on current and evolving legal context of open data
 
 ##  Data Governance Committee (DGC)
-The DGC ensures the consistent application of this policy to all Advanced Analytica staff, and advises and assesses the organisational risk of conducting web scraping.
+The DGC ensures the consistent application of this policy to all SPB staff, and advises and assesses the organisational risk of conducting web scraping. They are responsible to the AI  Group.
 
 # Accompanying guidance
 ## Web Crawling steps
