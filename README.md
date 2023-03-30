@@ -54,6 +54,19 @@ Clients who wish to engage the DiffWatch® service must document and justify the
 ## Personal data protection and artificial intelligence (AI)
 Advanced Analytica is fully commited to compliance with the [Data Protection Act 2018 and the General Data Protection Regulation](https://www.legislation.gov.uk/eur/2016/679/contents)) (Opens in a new window) and ensuring that personal data is used lawfully, and fairly and transparently protected in particlar where artificial intelligence is used. Data protection is of great importance to Advanced Analytica, not only because it is critical to the practice of our business, but also because it ensures we protect individual privacy and maintain public confidence in our business.
 
+## Roles and responsibilities
+### Advanced Analytica staff who request web scraping
+Staff who request web scraping must comply with the Advanced Analytica Web Scraping Policy and consult with the Data Acquisition and Operations team before commencing any web-scraping activities. They are responsible to their line managers.
+
+## Data Acquisition and Operations (DAO)
+The DAO team must advise Advanced Analytica staff on any alternative and/or existing data sources, ensuring that web scrapers are fully compliant with the Web Scraping Policy. They must also receive and evaluate the web scraping request from Advanced Analytica staff, seek advice from Advanced Analytica Legal Counsel and Data Ethics team, and/or the Data Governance Committee (DGC) when needed. They must also engage with the website owners' opt-out requests and any enquiries, while monitoring and keeping all records of Advanced Analytica's web scraping activities. They are responsible to Data Governance Committee.
+
+##  Legal Services
+Advanced Analytica legal services provide advice and guidance on current and evolving legal context of open data
+
+##  Data Governance Committee (DGC)
+The DGC ensures the consistent application of this policy to all Advanced Analytica staff, and advises and assesses the organisational risk of conducting web scraping.
+
 # Accompanying guidance
 ## Web Crawling steps
 ### Web Crawling request
