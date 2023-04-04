@@ -1,5 +1,5 @@
 # Web Scraping Policy
-## Advanced Analytica's policy for Web Crawling and Scraping Policy.
+## Web Scraping Policy for Advanced Analytica
 
 ## Background
 Use of alternative data sources is vital for Advanced Analytica to achieve its business objectives and delivery its DiffWatch® service for identifying and analysing changes in legislation and regulations. Web Scraping is one of these alternative data sources often used to supplement existing data sources. Therefore, the purpose of this policy is to ensure that Web Scraping activities are conducted transparently, ethically and responsibly with respect to all relevant legislation. This policy sets out the practices and procedures that Advanced Analytica will follow when carrying out Web Scraping. 
