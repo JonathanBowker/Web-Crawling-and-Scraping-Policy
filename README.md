@@ -4,7 +4,7 @@
 ## Background
 Use of alternative data sources is vital for Advanced Analytica to achieve its business objectives and delivery its DiffWatch® service for identifying and analysing changes in legislation and regulations. Web Scraping is one of these alternative data sources often used to supplement existing data sources. Therefore, the purpose of this policy is to ensure that Web Scraping activities are conducted transparently, ethically and responsibly with respect to all relevant legislation. This policy sets out the practices and procedures that Advanced Analytica will follow when carrying out Web Scraping. 
 
-Web scraping is defined as the automatic collection of data from the internet, typically from HTML, PDF or CSV files, using a piece of software or program called a Web Scraper. Advanced Analytica's Web Scraping and data analsyis system is called - DiffWatch®.
+Web scraping is defined as the automatic collection of data from the internet, typically from HTML, PDF or CSV files, using a piece of software or program called a Web Scraper. Advanced Analytica's Web Scraper tool for the DiffWatch® system is called - DiffCrawl.
 
 ## Scope
 This policy sets out the practices and procedures that Advanced Analytica follows when carrying out Web Scraping and analysis activities with DiffWatch®. 
@@ -20,7 +20,7 @@ Advanced Analytica will comply with this policy in any project involving data co
 ## Policy Statement
 Advanced Analytica is carrying out Web Scraping activity for the purposes of its business objectives in particular for the detection in changes to legislation and regulations and data collected from alternative data sources.
 
-Advanced Analytica will adopt the following principles to guide DiffWatch® activities:
+Advanced Analytica will adopt the following principles to guide DiffCrawl activities:
 
 - Seek to minimise the burden on scraped sites
 - Abide by all applicable legislation and monitor the evolving legal and ethical situation
@@ -30,10 +30,12 @@ Advanced Analytica will adopt the following principles to guide DiffWatch® acti
 ## Policy Details
 
 ### Seek to minimise the burden on scraped sites
-Excessive use of Web Scraping can be burdensome, and overuse on a single webpage may have a detrimental impact to the operation of the website. To avoid such scenarios, we will maintain a register of DiffWatch® activity and follow these practices, where applicable, and always act within the law:
+Excessive use of Web Scraping can be burdensome, and overuse on a single webpage may have a detrimental impact to the operation of the website. To avoid such scenarios, we will maintain a register of DiffSpider activity and follow these practices, where applicable, and always act within the law:
 
 - Assess other possible data collection methods, such API’s or Webservices, before considering the use of Web Crawling and Web Scraping
+- Ensure that your crawler obeys [robots.txt conventions](http://www.robotstxt.org/wc/robots.html)
 - Respect scraping limitations enforced via documents like the Robots Exclusion Protocol (Robots.txt) and Site Terms and Conditions
+obeys robots.txt conventions.
 - Delay accessing pages on the same domain
 - Adding idle time between requests
 - Limiting the depth of crawl for link collection within the given domain
