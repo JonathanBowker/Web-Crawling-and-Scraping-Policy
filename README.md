@@ -1,4 +1,4 @@
-# Web Crawling and Scraping Policy
+# Web Scraping Policy
 ## Advanced Analytica's policy for Web Crawling and Scraping Policy.
 
 ## Background
